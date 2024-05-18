@@ -1,12 +1,19 @@
 {
   "title": "Unsere Kandidaten",
   "subtitle": "Am <b>09.06.2024</b> ist Gemeinderatswahl. Schenken Sie einem unserer vielseitigen Kandidaten Ihr Vertrauen!",
+  "bulletTitle": "Zusammenfassung Inhalte",
+  "textTitle": "Vita",
   "people": [
     {
       "firstName": "Andreas",
       "lastName": "Hultsch",
       "title": "Dipl.-Ing. Elektrotechnik",
       "img": "/img/candidates/AndreasHultsch.jpg",
+      "bulletpoints": [
+        "Inhalt 1",
+        "Inhalt 2",
+        "Inhalt 3"
+      ],
       "text": "Lorem Ipsum Dolor Si"
     },
     {
@@ -14,6 +21,11 @@
       "lastName": "Lehmann",
       "title": "Töpfermeister",
       "img": "/img/candidates/KarlLouisLehmann.jpg",
+      "bulletpoints": [
+        "Inhalt 1",
+        "Inhalt 2",
+        "Inhalt 3"
+      ],
       "text": "Lorem Ipsum Dolor Si"
     },
     {
@@ -21,6 +33,11 @@
       "lastName": "Keller",
       "title": "Apotheker",
       "img": "/img/candidates/AndreasKeller.jpg",
+      "bulletpoints": [
+        "Inhalt 1",
+        "Inhalt 2",
+        "Inhalt 3"
+      ],
       "text": "Lorem Ipsum Dolor Si"
     },
     {
@@ -28,6 +45,11 @@
       "lastName": "Harig",
       "title": "Dipl.-Ing. Bau",
       "img": "/img/candidates/BerndHarig.jpg",
+      "bulletpoints": [
+        "Inhalt 1",
+        "Inhalt 2",
+        "Inhalt 3"
+      ],
       "text": "Lorem Ipsum Dolor Si"
     },
     {
@@ -35,6 +57,11 @@
       "lastName": "Liebsch",
       "title": "Selbstständige Dozentin im Gesundheitswesen",
       "img": "/img/candidates/SarahLiebsch.jpg",
+      "bulletpoints": [
+        "Inhalt 1",
+        "Inhalt 2",
+        "Inhalt 3"
+      ],
       "text": "Lorem Ipsum Dolor Si"
     },
     {
@@ -42,6 +69,11 @@
       "lastName": "Hilse",
       "title": "Medieninformatik-Student",
       "img": "/img/candidates/EliaHilse.jpg",
+      "bulletpoints": [
+        "Inhalt 1",
+        "Inhalt 2",
+        "Inhalt 3"
+      ],
       "text": "Lorem Ipsum Dolor Si"
     },
     {
@@ -49,6 +81,11 @@
       "lastName": "Wippich",
       "title": "Examinierte Krankenschwester",
       "img": "/img/candidates/NancyWippich.jpg",
+      "bulletpoints": [
+        "Inhalt 1",
+        "Inhalt 2",
+        "Inhalt 3"
+      ],
       "text": "Lorem Ipsum Dolor Si"
     },
     {
@@ -56,6 +93,11 @@
       "lastName": "Opitz",
       "title": "Kfz-Meister",
       "img": "/img/candidates/AndreasOpitz.jpg",
+      "bulletpoints": [
+        "Inhalt 1",
+        "Inhalt 2",
+        "Inhalt 3"
+      ],
       "text": "Lorem Ipsum Dolor Si"
     },
     {
@@ -63,6 +105,11 @@
       "lastName": "Wünsche",
       "title": "Wirtschaftsingenieur (B. Eng.)",
       "img": "/img/candidates/ToniWünsche.jpg",
+      "bulletpoints": [
+        "Inhalt 1",
+        "Inhalt 2",
+        "Inhalt 3"
+      ],
       "text": "Lorem Ipsum Dolor Si"
     },
     {
@@ -70,6 +117,11 @@
       "lastName": "Thomas",
       "title": "Dipl.-Lehrer",
       "img": "/img/candidates/GerdThomas.jpg",
+      "bulletpoints": [
+        "Inhalt 1",
+        "Inhalt 2",
+        "Inhalt 3"
+      ],
       "text": "Lorem Ipsum Dolor Si"
     },
     {
@@ -77,6 +129,11 @@
       "lastName": "Hartleib",
       "title": "Landwirt",
       "img": "/img/candidates/LasseHartleib.jpg",
+      "bulletpoints": [
+        "Inhalt 1",
+        "Inhalt 2",
+        "Inhalt 3"
+      ],
       "text": "Lorem Ipsum Dolor Si"
     },
     {
@@ -84,6 +141,11 @@
       "lastName": "Fröde",
       "title": "Konstrukteur",
       "img": "/img/candidates/TinoFröde.jpg",
+      "bulletpoints": [
+        "Inhalt 1",
+        "Inhalt 2",
+        "Inhalt 3"
+      ],
       "text": "Lorem Ipsum Dolor Si"
     },
     {
@@ -91,6 +153,11 @@
       "lastName": "Gries",
       "title": "Berufskraftfahrer",
       "img": "/img/candidates/AndreasGries.jpg",
+      "bulletpoints": [
+        "Inhalt 1",
+        "Inhalt 2",
+        "Inhalt 3"
+      ],
       "text": "Lorem Ipsum Dolor Si"
     }
   ]
