@@ -1,47 +1,96 @@
 {
   "title": "Unsere Kandidaten",
-  "subtitle": "Am <b>09.06.2024</b> ist Kommunalwahl. Schenken Sie einem unserer vielseitigen Kandidaten Ihr Vertrauen!",
+  "subtitle": "Am <b>09.06.2024</b> ist Gemeinderatswahl. Schenken Sie einem unserer vielseitigen Kandidaten Ihr Vertrauen!",
   "people": [
     {
-      "firstName": "Vorname",
-      "lastName": "Nachname1",
-      "title": "Beispielberuf A, M. Sc",
-      "img": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "firstName": "Andreas",
+      "lastName": "Hultsch",
+      "title": "Dipl.-Ing. Elektrotechnik",
+      "img": "/img/candidates/AndreasHultsch.jpg",
       "text": "Lorem Ipsum Dolor Si"
     },
     {
-      "firstName": "Vorname",
-      "lastName": "Nachname2",
-      "title": "Beispielberuf A, M. Sc",
-      "img": "/img/candidate-samples/joshua-rawson-harris-dN67hPE5KWY-unsplash.jpg",
+      "firstName": "Karl Louis",
+      "lastName": "Lehmann",
+      "title": "Töpfermeister",
+      "img": "/img/candidates/KarlLouisLehmann.jpg",
       "text": "Lorem Ipsum Dolor Si"
     },
     {
-      "firstName": "Vorname",
-      "lastName": "Nachname3",
-      "title": "Beispielberuf A, M. Sc",
-      "img": "https://images.unsplash.com/photo-1596075780750-81249df16d19?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "firstName": "Andreas",
+      "lastName": "Keller",
+      "title": "Apotheker",
+      "img": "/img/candidates/AndreasKeller.jpg",
       "text": "Lorem Ipsum Dolor Si"
     },
     {
-      "firstName": "Vorname",
-      "lastName": "Nachname4",
-      "title": "Beispielberuf A, M. Sc",
-      "img": "/img/candidate-samples/christopher-lemercier-L6ygXKgFjIQ-unsplash.jpg",
+      "firstName": "Bernd",
+      "lastName": "Harig",
+      "title": "Dipl.-Ing. Bau",
+      "img": "/img/candidates/BerndHarig.jpg",
       "text": "Lorem Ipsum Dolor Si"
     },
     {
-      "firstName": "Vorname",
-      "lastName": "Nachname5",
-      "title": "Beispielberuf A, M. Sc",
-      "img": "/img/candidate-samples/sofia-mQtcrK22CN8-unsplash.jpg",
+      "firstName": "Sarah",
+      "lastName": "Liebsch",
+      "title": "Selbstständige Dozentin im Gesundheitswesen",
+      "img": "/img/candidates/SarahLiebsch.jpg",
       "text": "Lorem Ipsum Dolor Si"
     },
     {
-      "firstName": "Vorname",
-      "lastName": "Nachname6",
-      "title": "Beispielberuf A, M. Sc",
-      "img": "/img/candidate-samples/henri-pham-3LsBsIRjlbw-unsplash.jpg",
+      "firstName": "Elia",
+      "lastName": "Hilse",
+      "title": "Medieninformatik-Student",
+      "img": "/img/candidates/EliaHilse.jpg",
+      "text": "Lorem Ipsum Dolor Si"
+    },
+    {
+      "firstName": "Nancy",
+      "lastName": "Wippich",
+      "title": "Examinierte Krankenschwester",
+      "img": "/img/candidates/NancyWippich.jpg",
+      "text": "Lorem Ipsum Dolor Si"
+    },
+    {
+      "firstName": "Andreas",
+      "lastName": "Opitz",
+      "title": "Kfz-Meister",
+      "img": "/img/candidates/AndreasOpitz.jpg",
+      "text": "Lorem Ipsum Dolor Si"
+    },
+    {
+      "firstName": "Toni",
+      "lastName": "Wünsche",
+      "title": "Wirtschaftsingenieur (B. Eng.)",
+      "img": "/img/candidates/ToniWünsche.jpg",
+      "text": "Lorem Ipsum Dolor Si"
+    },
+    {
+      "firstName": "Gerd",
+      "lastName": "Thomas",
+      "title": "Dipl.-Lehrer",
+      "img": "/img/candidates/GerdThomas.jpg",
+      "text": "Lorem Ipsum Dolor Si"
+    },
+    {
+      "firstName": "Lasse",
+      "lastName": "Hartleib",
+      "title": "Landwirt",
+      "img": "/img/candidates/LasseHartleib.jpg",
+      "text": "Lorem Ipsum Dolor Si"
+    },
+    {
+      "firstName": "Tino",
+      "lastName": "Fröde",
+      "title": "Konstrukteur",
+      "img": "/img/candidates/TinoFröde.jpg",
+      "text": "Lorem Ipsum Dolor Si"
+    },
+    {
+      "firstName": "Andreas",
+      "lastName": "Gries",
+      "title": "Berufskraftfahrer",
+      "img": "/img/candidates/AndreasGries.jpg",
       "text": "Lorem Ipsum Dolor Si"
     }
   ]
